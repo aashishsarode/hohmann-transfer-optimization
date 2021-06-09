@@ -14,7 +14,7 @@
 % Contact Info: sm.kalami@gmail.com, info@yarpiz.com
 %
 
-function z = Sphere(x)
+function z = Regression(x)
     % please edit below equation's coefficients
     z=26.9674-0.0004*x(1)-0.8506*x(2);
 end
