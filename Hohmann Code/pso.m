@@ -16,7 +16,7 @@
 
 %% Problem Definition
 
-CostFunction = @(x) Sphere(x);        % Cost Function
+CostFunction = @(x) Regression(x);        % Cost Function
 
 nVar = 2;            % Number of Decision Variables
 
